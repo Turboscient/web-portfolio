@@ -3,9 +3,9 @@ A work-in-progress, highlighting some of the frontend work I've done or collabor
 
 Languages: React.js, Flutter, Elm
 
-![screenshot](Turboscient_frontend.JPG)
-
 ![screenshot](GDSC_frontend.JPG)
+
+![screenshot](Turboscient_frontend.JPG)
 
 ![screenshot](Turboscient_frontend2.JPG)
 
