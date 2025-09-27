@@ -1,5 +1,5 @@
 # web-portfolio
-A work-in-progress, highlighting some of the frontend work I've done or collaborated lightly with others on. Interfaces range from functional/minimal to modern/stylistic. 
+Some of the frontend work I've done or collaborated lightly with others on. A few of these, notably the Flutter mobile UIs, are works in progress. Interfaces range from functional/minimal to modern/stylistic. 
 
 Languages: React.js, Flutter, Elm
 
