@@ -5,6 +5,8 @@ Languages: React.js, Flutter, Elm
 
 ![screenshot](Turboscient_frontend.JPG)
 
+![screenshot](GDSC_frontend.JPG)
+
 ![screenshot](Turboscient_frontend2.JPG)
 
 ![screenshot](Turboscient_frontend3.JPG)
